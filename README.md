@@ -25,7 +25,7 @@ ___
 ### ```Second Course :``` **NSE4 FortiGate** (Next Generation Firewall)
 
 - Arabic Source ([PlayList Link](https://www.youtube.com/playlist?list=PLuAmHWtEqECumCpFNlhrXbTX-yErP3kqR))
-- Slides Source ([Download Link](https://www.mediafire.com/file/dioycow30ylh8js/FortiManager_7.2_Study_Guide-Online.rar))
+- Slides Source ([Download Link](https://www.mediafire.com/file/dinl378sjv4tpsh/NSE4_7.2_Study_Guides.rar))
 
 ### ```Third Course :``` **NSE6 FortiAnalyzer Administrator & NSE5 FortiManager** 
 - FortiAnalyzer Slides Source ([Download Link](https://www.mediafire.com/file/r0zm2e5cqdj1my5/Fortinet+NSE+6+-+FortiAnalyzer+7.2+Administrator.rar))
